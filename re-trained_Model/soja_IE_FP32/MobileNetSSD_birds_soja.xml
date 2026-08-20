@@ -2675,4 +2675,4 @@
 			<unset unset_cli_parameters="batch, disable_fusing, disable_gfusing, finegrain_fusing, generate_deprecated_IR_V2, input, input_shape, mean_file, mean_file_offsets, model_name, output, placeholder_shapes, scale"/>
 		</cli_parameters>
 	</meta_data>
-</net>
+</net>
