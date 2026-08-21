@@ -380,4 +380,4 @@ Images/97.Ruby-Throated_Hummingbird.jpg Labels/97.Ruby-Throated_Hummingbird.xml
 Images/98.shutterstock_1173566920.jpg Labels/98.shutterstock_1173566920.xml
 Images/98.shutterstock_fedex.jpg Labels/98.shutterstock_fedex.xml
 Images/99.merlin_158607930_d35ec22b-a5bd-4e4a-81b8-136591e82a94-articleLarge.jpg Labels/99.merlin_158607930_d35ec22b-a5bd-4e4a-81b8-136591e82a94-articleLarge.xml
-Images/99.mostmicrobes.jpg Labels/99.mostmicrobes.xml
+Images/99.mostmicrobes.jpg Labels/99.mostmicrobes.xml
