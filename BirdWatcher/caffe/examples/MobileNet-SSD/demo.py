@@ -68,4 +68,4 @@ def detect(imgfile):
 
 for f in os.listdir(test_dir):
     if detect(test_dir + "/" + f) == False:
-       break
+       break
