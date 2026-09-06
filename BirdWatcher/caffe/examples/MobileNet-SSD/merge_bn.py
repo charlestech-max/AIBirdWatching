@@ -137,4 +137,4 @@ if __name__ == '__main__':
 
     load_weights(net, net2)
     net2.save("MobileNetSSD_birds_soja_{}.caffemodel".format(train_model.split('_')[-1].split('.')[0]))
-    #net2.save("MobileNetSSD_birds_soja.caffemodel")
+    #net2.save("MobileNetSSD_birds_soja.caffemodel")
